@@ -5,7 +5,7 @@
 
 // #define USERPREFS_EVENT_MODE 1
 
-// #define USERPREFS_CONFIG_LORA_REGION meshtastic_Config_LoRaConfig_RegionCode_US
+#define USERPREFS_CONFIG_LORA_REGION meshtastic_Config_LoRaConfig_RegionCode_US
 // #define USERPREFS_LORACONFIG_MODEM_PRESET meshtastic_Config_LoRaConfig_ModemPreset_SHORT_FAST
 // #define USERPREFS_LORACONFIG_CHANNEL_NUM 31
 // #define USERPREFS_CONFIG_LORA_IGNORE_MQTT true
@@ -16,8 +16,8 @@
             0xbf, 0x74, 0x22, 0x7e, 0x9d, 0x6a, 0xfb, 0x48, 0xd6, 0x4c, 0xb1, 0xa1                                               \
     }
 */
-
-#define USERPREFS_CONFIG_BLUETOOTH_FIXEDPIN "250087"
+#define USERPREFS_CONFIG_BLUETOOTH_ENABLED true
+#define USERPREFS_CONFIG_BLUETOOTH_FIXEDPIN 250087
 
 // #define USERPREFS_CHANNEL_0_NAME "DEFCONnect"
 // #define USERPREFS_CHANNEL_0_PRECISION 14
