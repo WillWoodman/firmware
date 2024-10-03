@@ -16,8 +16,6 @@
             0xbf, 0x74, 0x22, 0x7e, 0x9d, 0x6a, 0xfb, 0x48, 0xd6, 0x4c, 0xb1, 0xa1                                               \
     }
 */
-#define USERPREFS_CONFIG_BLUETOOTH_ENABLED true
-#define USERPREFS_CONFIG_BLUETOOTH_FIXEDPIN "250087"
 
 // #define USERPREFS_CHANNEL_0_NAME "DEFCONnect"
 // #define USERPREFS_CHANNEL_0_PRECISION 14
